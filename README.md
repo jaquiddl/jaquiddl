@@ -1,5 +1,5 @@
 # Hello there 👋🏼 #
-**`iOS Developer Trainee`**
+**`Trainee iOS Developer`**
 ## Welcome to my Portfolio ##
 
 
